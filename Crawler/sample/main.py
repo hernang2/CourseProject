@@ -5,7 +5,9 @@ import urllib
 import urllib.request
 import validators
 import json
+import nltk
 from nltk import tokenize
+nltk.download('stopwords')
 
 
 # uses webdriver object to execute javascript code and get dynamically loaded webcontent
@@ -64,13 +66,14 @@ def scrape_dir_page(faculty_base_url, dir_url, driver):
                 rel_link = hyperlink['href']  # get url
                 if validators.url(rel_link):
                     name = hyperlink.string.strip()
-                    bio, email, faculty, location = scrape_faculty_page(rel_link, driver)
+                    bio, email, faculty, location, top_terms = scrape_faculty_page(rel_link, driver)
                     faculty_professors.append({
                         'name': name,
                         'bio': bio,
                         'email': email,
                         'faculty': faculty,
                         'location': location,
+                        'top_terms': top_terms,
                         'url': rel_link
                     })
         print('-' * 20, 'Found {} faculty profile urls'.format(len(faculty_professors)), '-' * 20)
@@ -84,7 +87,7 @@ def scrape_faculty_page(fac_url, driver):
     faculty = ''
     location = ''
     bio = ''
-
+    top_terms = []
     try:
         soup = get_js_soup(fac_url, driver)
         [s.extract() for s in soup(['style', 'script', '[document]', 'head', 'title'])]
@@ -92,6 +95,21 @@ def scrape_faculty_page(fac_url, driver):
         email_regex = r"(^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$)"
         faculty_keywords = ['department', 'Department', 'faculty', 'Faculty', 'institute', 'Institute']
         bio = visible_text.strip()
+
+        stopwords = nltk.corpus.stopwords.words('english')
+        word_frequencies = {}
+        for word in nltk.word_tokenize(bio):
+            if word not in stopwords:
+                if word not in word_frequencies.keys():
+                    word_frequencies[word] = 1
+                else:
+                    word_frequencies[word] += 1
+        max_frequency = max(word_frequencies.values())
+        for word in word_frequencies.keys():
+            word_frequencies[word] = (word_frequencies[word] / max_frequency)
+        word_frequencies = sorted(word_frequencies.items(), key=lambda x: x[1], reverse=True)
+        top_terms = list(k[0] for k in word_frequencies if len(k[0]) > 1)[:5]
+
         tags = soup.find_all(['a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p', 'td', 'span'])
         strippy = ''
         for tag in tags:
@@ -142,7 +160,7 @@ def scrape_faculty_page(fac_url, driver):
                 pass
     except:
         pass
-    return bio, email, faculty, location
+    return bio, email, faculty, location, top_terms
 
 
 def write_lst(lst, file_):
@@ -160,7 +178,7 @@ def write_json(data, file_):
 if __name__ == '__main__':
     # driver = webdriver.Edge(executable_path="D:/Projects/410/MP2.1_private/sample/edgedriver_win64/msedgedriver.exe")
     driver = webdriver.Firefox(
-        executable_path=r"D:\Projects\410\MP2.1_private\scraper_code\geckodriver-v0.28.0-win64/geckodriver.exe")
+        executable_path=r"D:\Projects\410\CourseProject\Crawler\sample\geckodriver-v0.28.0-win64/geckodriver.exe")
 
     # Scrape homepages of all urls
     bios = []

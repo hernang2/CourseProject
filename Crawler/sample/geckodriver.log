@@ -6,3 +6,366 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1607953015491	Marionette	INFO	Listening on port 60341
 1607953015515	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607956465683	geckodriver	INFO	Listening on 127.0.0.1:59745
+1607956468696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofileZHHRLs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607956470192	Marionette	INFO	Listening on port 59762
+1607956470228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607956528017	geckodriver	INFO	Listening on 127.0.0.1:60068
+1607956531028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofile0Deduy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607956532529	Marionette	INFO	Listening on port 60087
+1607956532558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607956760735	geckodriver	INFO	Listening on 127.0.0.1:61095
+1607956763743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofile8xnunl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607956765188	Marionette	INFO	Listening on port 61114
+1607956765265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607956869329	geckodriver	INFO	Listening on 127.0.0.1:61593
+1607956872338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofilenOOL1Q"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607956873789	Marionette	INFO	Listening on port 61611
+1607956873859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607956931670	geckodriver	INFO	Listening on 127.0.0.1:61929
+1607956934679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofilet48rPt"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607956936113	Marionette	INFO	Listening on port 61947
+1607956936201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607956995639	geckodriver	INFO	Listening on 127.0.0.1:62257
+1607956998646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofile8PAsfx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607957000094	Marionette	INFO	Listening on port 62274
+1607957000177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607957246951	geckodriver	INFO	Listening on 127.0.0.1:63378
+1607957249957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofilerMr5vU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607957251489	Marionette	INFO	Listening on port 63396
+1607957251975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607957386825	geckodriver	INFO	Listening on 127.0.0.1:64035
+1607957389832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofiley9VDzf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607957391335	Marionette	INFO	Listening on port 64052
+1607957391354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607957789201	geckodriver	INFO	Listening on 127.0.0.1:49389
+1607957792207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofileMqpadv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607957793661	Marionette	INFO	Listening on port 49407
+1607957793727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607957894540	geckodriver	INFO	Listening on 127.0.0.1:49885
+1607957897551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofilexHcQFI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607957899033	Marionette	INFO	Listening on port 49905
+1607957899075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607957966767	geckodriver	INFO	Listening on 127.0.0.1:50254
+1607957969775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofilecJqoVe"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607957971323	Marionette	INFO	Listening on port 50275
+1607957971791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607958047155	geckodriver	INFO	Listening on 127.0.0.1:50648
+1607958050173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofileNOoJKQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607958051655	Marionette	INFO	Listening on port 50667
+1607958051696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607958404663	geckodriver	INFO	Listening on 127.0.0.1:52219
+1607958407671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofile5csIAO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607958409140	Marionette	INFO	Listening on port 52245
+1607958409191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607958549356	geckodriver	INFO	Listening on 127.0.0.1:52895
+1607958552374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofile54BFq8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607958553858	Marionette	INFO	Listening on port 52911
+1607958553892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607958864231	geckodriver	INFO	Listening on 127.0.0.1:54246
+1607958867238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofileFQGrj2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607958868701	Marionette	INFO	Listening on port 54269
+1607958868761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607958913907	geckodriver	INFO	Listening on 127.0.0.1:54524
+1607958916917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofileFiq2Vk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607958918406	Marionette	INFO	Listening on port 54539
+1607958918434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607958982122	geckodriver	INFO	Listening on 127.0.0.1:54844
+1607958985130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofileolBY8u"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607958986557	Marionette	INFO	Listening on port 54871
+1607958986647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607959021149	geckodriver	INFO	Listening on 127.0.0.1:55058
+1607959024157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofileuObGOF"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607959025660	Marionette	INFO	Listening on port 55073
+1607959025677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607959240411	geckodriver	INFO	Listening on 127.0.0.1:56004
+1607959243417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofilefbiHI9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607959244889	Marionette	INFO	Listening on port 56026
+1607959244937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607959326440	geckodriver	INFO	Listening on 127.0.0.1:56430
+1607959329446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofileyniGho"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607959330933	Marionette	INFO	Listening on port 56454
+1607959330962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607959383986	geckodriver	INFO	Listening on 127.0.0.1:56757
+1607959386994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofileAic00U"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607959388492	Marionette	INFO	Listening on port 56767
+1607959388511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607959470759	geckodriver	INFO	Listening on 127.0.0.1:57171
+1607959473766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofilexuZFTM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607959475320	Marionette	INFO	Listening on port 57184
+1607959475786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cmu.edu/common/standard-v6/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.cmu.edu/common/standard-v6/js/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cs.stanford.edu/index.php?q=directory/faculty, line 319: TypeError: $ is not a function
+JavaScript error: https://cs.stanford.edu/index.php?q=directory/faculty, line 331: TypeError: $ is not a function
+JavaScript error: https://cs.stanford.edu/index.php?q=directory/faculty, line 909: TypeError: $ is not a function
+JavaScript error: https://cs.stanford.edu/index.php?q=directory/faculty, line 921: TypeError: $ is not a function
+JavaScript error: https://cs.stanford.edu/index.php?q=directory/faculty, line 1060: TypeError: $ is not a function
+JavaScript error: https://cs.stanford.edu/index.php?q=directory/faculty, line 1072: TypeError: $ is not a function
+JavaScript error: https://cs.stanford.edu/index.php?q=directory/faculty, line 1251: TypeError: $ is not a function
+JavaScript error: https://cs.stanford.edu/index.php?q=directory/faculty, line 1263: TypeError: $ is not a function
+JavaScript error: https://cs.stanford.edu/index.php?q=directory/faculty, line 1513: TypeError: $ is not a function
+JavaScript error: https://cs.stanford.edu/index.php?q=directory/faculty, line 1525: TypeError: $ is not a function
+JavaScript error: https://cs.stanford.edu/index.php?q=directory/faculty, line 1623: TypeError: $ is not a function
+JavaScript error: https://cs.stanford.edu/index.php?q=directory/faculty, line 1635: TypeError: $ is not a function
+JavaScript warning: https://adminguide.stanford.edu/sites/adminguide/files/js/js_ZDOaep6HA5A0eriyiN-YaNv7MHsjd-FIuFyilZ2o5cw.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://maps.googleapis.com/maps-api-v3/api/js/43/3/common.js, line 89: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://profiles.stanford.edu/scripts/main.js?r=7.23.0, line 16: TypeError: result is undefined
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.96fd96193cc66c3e11d4c5e4c7c7ec97.html?origin=https%3A%2F%2Fcs.stanford.edu, line 12: Error: Network error.
+JavaScript warning: https://ckllab.stanford.edu/sites/all/themes/open_framework/js/jquery-1.9.1.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://ai.stanford.edu/~tengyuma/, line 247: TypeError: document.getElementById(...) is null
+JavaScript warning: http://cdn2.editmysite.com/js/site/main.js?buildTime=1234, line 4: unreachable code after return statement
+JavaScript warning: http://cdn2.editmysite.com/js/site/main.js?buildTime=1234, line 4: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: https://web.stanford.edu/~boyd/, line 16: ReferenceError: urchinTracker is not defined
+JavaScript error: https://cs.vt.edu/Undergraduate.html, line 922: TypeError: $(...).attr(...) is undefined
+JavaScript error: https://cs.vt.edu/Undergraduate.html, line 1014: TypeError: $(...).attr(...) is undefined
+JavaScript error: https://cs.vt.edu/Undergraduate/Undergradhandbook.html, line 1269: TypeError: $(...).attr(...) is undefined
+JavaScript error: https://cs.vt.edu/Undergraduate/Undergradhandbook.html, line 1360: TypeError: $(...).attr(...) is undefined
+JavaScript error: https://cs.vt.edu/Undergraduate/ProspectiveStudents.html, line 780: TypeError: $(...).attr(...) is undefined
+JavaScript error: https://cs.vt.edu/Undergraduate/ProspectiveStudents.html, line 871: TypeError: $(...).attr(...) is undefined
+JavaScript warning: https://manta.cs.vt.edu/balci/Site/logo/js/sifr.js, line 1304: unreachable code after return statement
+JavaScript warning: https://manta.cs.vt.edu/balci/Site/javascript/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://admin.cs.vt.edu/static/jquery/archives/jquery-1.10.latest.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery version 1.9.1 or higher, but lower than version 4
+JavaScript error: https://superurop.mit.edu/, line 390: TypeError: jQuery(...).fancybox is not a function
+JavaScript error: https://superurop.mit.edu/, line 390: TypeError: jQuery(...).fancybox is not a function
+JavaScript error: , line 0: uncaught exception: null
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://news.gatech.edu/sites/default/files/js/js_I_NV9cmsGpCI6_JvE0YKcywszNOEH9RkGSlzvxRx55w.js, line 308: TypeError: $.Isotope is undefined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://samueli.ucla.edu/media-resources/, line 404: SyntaxError: '' string literal contains an unescaped line break
+JavaScript error: https://samueli.ucla.edu/speaker-series/, line 403: SyntaxError: '' string literal contains an unescaped line break
+JavaScript error: https://samueli.ucla.edu/expert-directory/, line 404: SyntaxError: '' string literal contains an unescaped line break
+JavaScript error: https://samueli.ucla.edu/media-resources/, line 404: SyntaxError: '' string literal contains an unescaped line break
+JavaScript error: https://samueli.ucla.edu/speaker-series/, line 403: SyntaxError: '' string literal contains an unescaped line break
+JavaScript error: https://samueli.ucla.edu/expert-directory/, line 404: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://apps.cs.utexas.edu/apps/sites/default/files/js/js_bHixdNqIm_fGV7c3IlqVJl-OQXz4T0rdcigI0kCjuGg.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://apps.cs.utexas.edu/apps/sites/default/files/js/js_bHixdNqIm_fGV7c3IlqVJl-OQXz4T0rdcigI0kCjuGg.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-auth.cs.wisc.edu/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://eecs.berkeley.edu/profiles/panopoly/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://eecs.berkeley.edu/sites/default/files/js/js_bHixdNqIm_fGV7c3IlqVJl-OQXz4T0rdcigI0kCjuGg.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://eecs.berkeley.edu/sites/default/files/js/js_bHixdNqIm_fGV7c3IlqVJl-OQXz4T0rdcigI0kCjuGg.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://eecs.berkeley.edu/sites/default/files/js/js_bHixdNqIm_fGV7c3IlqVJl-OQXz4T0rdcigI0kCjuGg.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://eecs.berkeley.edu/sites/default/files/js/js_bHixdNqIm_fGV7c3IlqVJl-OQXz4T0rdcigI0kCjuGg.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://eecs.berkeley.edu/profiles/panopoly/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://eecs.berkeley.edu/profiles/panopoly/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.berkeley.edu/cache/0789bc6c2e1d1377d053befa129dabd76cc3b247.0000000000.js, line 27: TypeError: options is undefined
+JavaScript warning: https://engineering.berkeley.edu/wp-content/plugins/Content_Timeline//js/frontend/jquery.my_add_function.js?ver=5.6, line 99: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: http://www.its.caltech.edu/~obruno/Computing%20+%20Mathematical%20Sciences_files/search.js, line 2: ReferenceError: google is not defined
+JavaScript error: http://www.its.caltech.edu/~obruno/Computing%20+%20Mathematical%20Sciences_files/jsapi.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.its.caltech.edu/~obruno/Computing%20+%20Mathematical%20Sciences_files/jquery.main.js, line 395: TypeError: lisFl is undefined
+JavaScript warning: http://users.cms.caltech.edu/~owhadi/index_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: http://users.cms.caltech.edu/~owhadi/index_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript error: https://www.cns.caltech.edu/people/faculty/mead.html, line 98: ReferenceError: urchinTracker is not defined
+JavaScript error: https://quantumfrontiers.com/, line 1: SyntaxError: function statement requires a name
+JavaScript warning: https://confluence.cornell.edu/s/13eb1fec06504a47a284855d1fe2419e-CDN/en_GB/6441/82994790ee2f720a5ec8daf4850ac5b7b34d2194/86732e590ebb44f03a993056e10e19ed/_/download/contextbatch/js/main,-_super/batch.js?analytics-enabled=true&analytics-uploadable=true&anonymous-access-enabled=true&atlassian.aui.raphael.disabled=true&is-server-instance=true&locale=en-GB&nps-enabled=true, line 1336: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js?ver=20200721, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://confluence.cornell.edu/s/13eb1fec06504a47a284855d1fe2419e-CDN/en_GB/6441/82994790ee2f720a5ec8daf4850ac5b7b34d2194/86732e590ebb44f03a993056e10e19ed/_/download/contextbatch/js/main,-_super/batch.js?analytics-enabled=true&analytics-uploadable=true&anonymous-access-enabled=true&atlassian.aui.raphael.disabled=true&is-server-instance=true&locale=en-GB&nps-enabled=true, line 1336: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js?ver=20200721, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cs.cornell.edu/gomes/, line 203: TypeError: $(...).matchHeight is not a function
+JavaScript error: https://ai.stanford.edu/~kuleshov/, line 336: ReferenceError: google is not defined
+JavaScript error: https://www.cs.cornell.edu/~sridharan/, line 333: TypeError: span is undefined
+JavaScript error: https://www.cs.cornell.edu/~sridharan/, line 362: TypeError: currentDemo is undefined
+JavaScript warning: https://www.cs.cornell.edu/~hweather/includes/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://confluence.cornell.edu/s/13eb1fec06504a47a284855d1fe2419e-CDN/en_GB/6441/82994790ee2f720a5ec8daf4850ac5b7b34d2194/86732e590ebb44f03a993056e10e19ed/_/download/contextbatch/js/main,-_super/batch.js?analytics-enabled=true&analytics-uploadable=true&anonymous-access-enabled=true&atlassian.aui.raphael.disabled=true&is-server-instance=true&locale=en-GB&nps-enabled=true, line 1336: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js?ver=20200721, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript warning: http://www.chrissmithcrawford.com/js/jquery-1.10.2.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://cs.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript error: http://me.eng.ua.edu/wp-content/themes/ua-eng-main/js/ua-eng-main.js, line 5: ReferenceError: gform is not defined
+JavaScript warning: https://cdn01.boxcdn.net/enduser/messagecenter~preview-components~uploads-manager-enduser.cd27048dc6.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript error: https://www.rice.edu/, line 855: TypeError: homehero is null
+JavaScript error: https://www.rice.edu/privacy, line 624: TypeError: homehero is null
+JavaScript error: https://access.rice.edu/themes/custom/adm_rice/assets/js/app.js?v=8.9.9, line 1: TypeError: a is undefined
+JavaScript error: https://www.rice.edu/campus-carry-policy, line 610: TypeError: homehero is null
+JavaScript warning: https://www.seas.harvard.edu/sites/default/files/js/js_PLivWgaTZj5Q1WeYMTWT9LYEWU4pHwnBo7FTOTpSHys.js, line 976: unreachable code after return statement
+JavaScript warning: https://www.seas.harvard.edu/sites/default/files/js/js_PLivWgaTZj5Q1WeYMTWT9LYEWU4pHwnBo7FTOTpSHys.js, line 1683: unreachable code after return statement
+JavaScript warning: https://www.seas.harvard.edu/sites/default/files/js/js_PLivWgaTZj5Q1WeYMTWT9LYEWU4pHwnBo7FTOTpSHys.js, line 1713: unreachable code after return statement
+JavaScript warning: https://accessibility.huit.harvard.edu/digital-accessibility-policy, line 9106: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://registrar.gatech.edu/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://news.gatech.edu/sites/default/files/js/js_I_NV9cmsGpCI6_JvE0YKcywszNOEH9RkGSlzvxRx55w.js, line 308: TypeError: $.Isotope is undefined
+JavaScript warning: http://pts.gatech.edu/sites/default/files/js/js__RLT4dZVyHjWeb0BjcozDX9y9EHfZf6b8wS_bg87Zl8.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://titleix.gatech.edu/sites/default/files/js/js__RLT4dZVyHjWeb0BjcozDX9y9EHfZf6b8wS_bg87Zl8.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.rice.edu/, line 855: TypeError: homehero is null
+JavaScript error: https://www.rice.edu/privacy, line 624: TypeError: homehero is null
+JavaScript error: https://access.rice.edu/themes/custom/adm_rice/assets/js/app.js?v=8.9.9, line 1: TypeError: a is undefined
+JavaScript error: https://www.rice.edu/campus-carry-policy, line 610: TypeError: homehero is null
+JavaScript warning: http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1607960947645	Marionette	INFO	Stopped listening on port 57184
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607962270177	geckodriver	INFO	Listening on 127.0.0.1:55547
+1607962273241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hernan\\AppData\\Local\\Temp\\rust_mozprofileCvhiYS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607962274878	Marionette	INFO	Listening on port 55563
+1607962275314	Marionette	WARN	TLS certificate errors will be ignored for this session
