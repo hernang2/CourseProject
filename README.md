@@ -1,6 +1,6 @@
 # ExpertSearch - Extracting relevant information
 
-This is the final project for the UIUC Text Information Systems course. For a visal walkthrough you can use the following links: 
+This is the final project for the UIUC Text Information Systems course. For a visual walkthrough you can use the following links: 
 
 You can find the video about how to instal and run: https://mediaspace.illinois.edu/media/1_sktdzqnu
 You can find the video about how the code works: https://mediaspace.illinois.edu/media/1_ht2q1bdw
